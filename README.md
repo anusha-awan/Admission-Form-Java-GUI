@@ -6,14 +6,30 @@ It simulates a simple admission process using Java Swing.
 ---
 
 ## 📌 Features
-- Graphical User Interface (GUI)
-- Student data handling
-- Admission process simulation
-- Menu-driven navigation
-- Object-Oriented Programming concepts applied
+- **Student Registration**  
+  - Enter student details (Form No, Name, Father’s Name, Marks, etc.)  
+  - Auto-generate a unique **Roll Number**  
+
+- **Eligibility Checking**  
+  - Validates marks and test performance  
+  - Marks students as eligible or ineligible  
+
+- **Merit List Generation**  
+  - Calculates **total score** based on Matric, FSc, Test, and Interview  
+  - Sorts students by merit order  
+
+- **Multiple Interfaces**  
+  - **Console Mode** → Simple text-based interaction (in the other repo.)
+  - **GUI Mode** → Java Swing interface with multiple panels for Forms, Test, and Merit List  
 
 ---
 
+## 🛠️ Technologies Used  
+- **Java (JDK 8+)**  
+- **Java Swing (JFrame, JPanel, JButton, etc.)**  
+- **Collections Framework (ArrayList, Sorting)**  
+
+---
 ## 📂 Files in this Repository
 - **Main.java** → Entry point of the program  
 - **BSCSAdmissionProgram.java** → Handles the admission logic  
@@ -61,3 +77,8 @@ It simulates a simple admission process using Java Swing.
 - [Files in this Repository](#-files-in-this-repository)
 - [How to Run](#-how-to-run)
 - [GUI Screenshots](#-gui-screenshots)
+
+---
+
+## 👥 Contributors  
+This project was created as a **group project** by our team of students.  
