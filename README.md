@@ -61,9 +61,3 @@ It simulates a simple admission process using Java Swing.
 - [Files in this Repository](#-files-in-this-repository)
 - [How to Run](#-how-to-run)
 - [GUI Screenshots](#-gui-screenshots)
-
----
-
-## 📝 Notes
-- Make sure the `images/` folder contains all screenshot files referenced in the README.  
-- This GUI version is separate from the console version repository.
